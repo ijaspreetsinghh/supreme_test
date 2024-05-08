@@ -55,7 +55,7 @@ export default function LoginForm() {
           </button>
 
           <p className='text-slate-500 inline-block mx-auto mt-6'>
-            Don't have an account?&nbsp;
+            Don&apos;t have an account?&nbsp;
             <Link
               className='text-sm mt-3 text-right   text-black font-semibold'
               href={"/register"}>
